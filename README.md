@@ -7,4 +7,4 @@
 <h4> How to use : </h4> python exploit.py url filename outputname.
 <h4> Example : </h4> python exploit.py http://10.10.10.10/ windows/win.ini win.ini 
 
-<h4> Exploit Link : https://www.exploit-db.com/exploits/47069 </h4>
+<h4> Exploit Link :  </h4>
