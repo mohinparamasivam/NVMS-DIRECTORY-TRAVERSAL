@@ -2,7 +2,7 @@
 # Exploit Title: TVT NVMS 1000 - Directory Traversal 
 # Date: 13/04/2020
 # Exploit Author: Mohin Paramasivam (Shad0wQu35t)
-# Original Author : Numan Türle
+# Original Author : Numan Turle
 # CVE : CVE-2019-20085
 # Vendor Homepage: http://en.tvt.net.cn/
 # Version : N/A
